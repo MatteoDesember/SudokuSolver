@@ -1,1 +1,3 @@
-“Sudoku” is a simple program which solves Sudoku.
+# SudokuSolver
+
+“SudokuSolver” is a simple program which solves Sudoku.
